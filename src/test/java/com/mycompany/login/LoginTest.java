@@ -109,8 +109,7 @@ public class LoginTest {
     }
 }
 /*
- * This code was developed with assistance from ChatGPT by OpenAI (https://openai.com/chatgpt).
- * ChatGPT was used to help design and structure JUnit test cases for the Login class,
- * including the use of assert methods and reflective techniques to test private static fields.
- * Final implementation and modifications were made by the author.
+ * This code was developed with the assistance of ChatGPT, a language model by OpenAI.
+ * ChatGPT was used to help create a regular expression based cell phone checker.
+ * Citation: OpenAI. (2025). ChatGPT (May 2 version) [Large language model]. https://chat.openai.com
  */

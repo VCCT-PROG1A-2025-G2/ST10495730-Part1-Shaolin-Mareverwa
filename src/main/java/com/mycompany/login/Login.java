@@ -229,8 +229,6 @@ public class Login extends JFrame {
 }
 /*
  * This code was developed with the assistance of ChatGPT, a language model by OpenAI.
- * ChatGPT was used to help design the structure, validation logic, and UI implementation
- * of the registration and login system.
- * 
+ * ChatGPT was used to help create a regular expression based cell phone checker.
  * Citation: OpenAI. (2025). ChatGPT (May 2 version) [Large language model]. https://chat.openai.com
  */
